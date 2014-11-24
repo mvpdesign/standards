@@ -123,3 +123,31 @@ Example:
 │   │   ├── v2
 │   │   └── v3
 ```
+
+#### Styles
+
+Example:
+```
+├── 04-styles
+```
+
+#### Development
+
+Example:
+```
+├── 05-development
+```
+
+#### Testing
+
+Example:
+```
+├── 06-testing
+```
+
+#### Documentation
+
+Example:
+```
+├── 07-documentation
+```
