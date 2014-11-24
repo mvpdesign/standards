@@ -71,3 +71,20 @@ Example:
 │   ├── _archive
 │   └── _mvp-shared-assets
 ```
+
+#### Planning
+There MUST be a directory named Archive AND it MUST be the first directory.
+Any files contained in subsequent folders should be the most recent versions. 
+All older versions should be moved to the Archive folder regularly.
+
+Example:
+```
+├── 02-planning
+│   ├── _archive
+│   ├── 01-scoping
+│   ├── 02-estimate
+│   ├── 03-needs-analysis
+│   ├── 04-creative-brief
+│   ├── 05-site-map
+│   └── 06-resources
+```
