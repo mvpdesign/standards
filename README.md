@@ -59,3 +59,15 @@ Example:
 │   ├── 06-testing
 │   └── 07-documentation
 ```
+
+#### Client Assets
+There MUST be a directory named Archive AND it MUST be the first directory.
+Optionally there CAN be a directory that can be shared with the client which MUST be named MVP Shared Assets.
+Files AND directories inside of the MVP Shared Assets folder may OR may not follow the [dropbox naming standards](#dropbox-naming-standards).
+
+Example:
+```
+├── 01-client-assets
+│   ├── _archive
+│   └── _mvp-shared-assets
+```
