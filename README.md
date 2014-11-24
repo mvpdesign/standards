@@ -88,3 +88,38 @@ Example:
 │   ├── 05-site-map
 │   └── 06-resources
 ```
+
+#### Wireframes
+There MUST be a directory for EACH page.
+There MUST be a directory named Archive in EACH page directory AND it MUST be the first directory. 
+There MUST be a directory named Screens in EACH page directory AND if MUST be the second directory.
+Images inside the Screens directory SHOULD be the most updated version of the wireframe. 
+File names MUST use the following structure: jobnumber-description-version-extension
+
+Example:
+```
+├── 03-wireframes
+│   ├── 01-homepage
+│   │   ├── _archive
+│   │   ├── _screens
+│   │   ├── v1
+│   │   │   ├──ab01-homepage-v1-1.psd
+│   │   │   └──ab01-homepage-v1-2.psd
+│   │   ├── v2
+│   │   │   └──ab01-homepage-v2-1.psd
+│   │   └── v3
+│   ├── 02-sub-page1
+│   │   ├── _archive
+│   │   ├── _screens
+│   │   ├── v1
+│   │   │   └──ab01-sub-page1-v1-1.psd
+│   │   ├── v2
+│   │   └── v3
+│   └── 02-sub-page2
+│   │   ├── _archive
+│   │   ├── _screens
+│   │   ├── v1
+│   │   │   └──ab01-sub-page2-v1-1.psd
+│   │   ├── v2
+│   │   └── v3
+```
