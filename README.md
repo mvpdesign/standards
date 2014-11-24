@@ -16,8 +16,8 @@ All web projects MUST be kept on [Dropbox](#dropbox) and they MUST follow the co
 
 ### Dropbox Naming Standards
 When creating a new directory OR file their names MUST:
-    * be all lowercase
-    * use hyphens as separators
+* be all lowercase
+* use hyphens as separators
     
 Example:
 ```
@@ -26,8 +26,8 @@ dropbox-example.file
 ```
    
 To support custom ordering a directory name CAN:
-    * be prefixed with an underscore
-    * be prefixed with 2 numerical digits
+* be prefixed with an underscore
+* be prefixed with 2 numerical digits
      
 Example:
 ```
@@ -39,13 +39,13 @@ _dropbox-example
 The project structure MUST include the following in this order:
 
 Job Number - Project Name
-    1. Client Assets
-    2. Planning
-    3. Wireframes
-    4. Styles
-    5. Development
-    6. Testing
-    7. Documentation
+1. Client Assets
+2. Planning
+3. Wireframes
+4. Styles
+5. Development
+6. Testing
+7. Documentation
     
 Example:
 ```
