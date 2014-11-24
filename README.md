@@ -74,8 +74,8 @@ Example:
 
 #### Planning
 There MUST be a directory named Archive AND it MUST be the first directory.
-Any files contained in subsequent folders should be the most recent versions. 
-All older versions should be moved to the Archive folder regularly.
+Any files contained in subsequent folders SHOULD be the most recent versions. 
+All older versions SHOULD be moved to the Archive folder regularly.
 
 Example:
 ```
