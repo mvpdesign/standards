@@ -39,6 +39,7 @@ _dropbox-example
 The project structure MUST include the following in this order:
 
 Job Number - Project Name
+
 1. Client Assets
 2. Planning
 3. Wireframes
